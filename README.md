@@ -1,5 +1,10 @@
 # EncryptCode
 
+## Discontinued
+Oct 4, 2021.
+Uploaded this project to GitHub because it's cool ig but I'm not working on it
+TLDR: This is a discontinued repository.
+
 ## How to Encrypt a message
 - **Follow the prompts.**
 - Type 1 when asked to encrypt or decrypt.
