@@ -1,7 +1,7 @@
-package vido.gems.encrypt;
-import vido.gems.encrypt.internal.Decrypt;
-import vido.gems.encrypt.internal.Encrypt;
-import vido.gems.encrypt.internal.variable;
+package Encryptor;
+import Encryptor.internal.Encrypt;
+import Encryptor.internal.Decrypt;
+import Encryptor.internal.variable;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package vido.gems.encrypt.internal;
+package Encryptor.internal;
 import java.util.Scanner;
 
 public class Encrypt {
